@@ -84,7 +84,7 @@ The **Smart Attendance System** is an embedded IoT solution designed to automate
 
 ---
 
-# 📚 Skills & Knowledge Acquired
+#  Skills & Knowledge Acquired
 
 This project strengthened my practical experience in:
 
