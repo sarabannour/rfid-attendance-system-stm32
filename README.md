@@ -93,7 +93,7 @@ The system remains idle while waiting for an RFID card.
 
 ---
 
-### ✅ Access Granted
+###  Access Granted
 
 ![Access Granted](Images/access_welcome.jpg)
 
@@ -101,7 +101,7 @@ A registered user is authenticated, the servo unlocks the door, and a welcome me
 
 ---
 
-### 👋 Exit Registered
+### Exit Registered
 
 ![Goodbye](Images/access_goodbye.jpg)
 
