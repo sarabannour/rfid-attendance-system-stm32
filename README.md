@@ -83,6 +83,37 @@ The **Smart Attendance System** is an embedded IoT solution designed to automate
 | **Dashboard** | Real-time attendance visualization |
 
 ---
+#  System Demonstration
+
+### 🔹 Waiting for RFID Card
+
+![Scan Card](Images/project_layout.jpg)
+
+The system remains idle while waiting for an RFID card.
+
+---
+
+### ✅ Access Granted
+
+![Access Granted](Images/access_welcome.jpg)
+
+A registered user is authenticated, the servo unlocks the door, and a welcome message is displayed.
+
+---
+
+### 👋 Exit Registered
+
+![Goodbye](Images/access_goodbye.jpg)
+
+The user's exit is recorded, and a goodbye message is displayed.
+
+---
+
+###  Access Denied
+
+![Access Denied](Images/access_denied.jpg)
+
+An unregistered RFID card is detected. Access is denied.
 
 #  Skills & Knowledge Acquired
 
