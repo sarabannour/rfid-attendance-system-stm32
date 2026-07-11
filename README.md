@@ -137,13 +137,9 @@ This project strengthened my practical experience in:
 ```text
 Smart-Attendance-System/
 │
-├── Core/                    # STM32 firmware
-├── ESP32/                   # ESP32 source code
-├── Dashboard/               # Web application
-├── Proteus/
-│   ├── Schematic/
-│   ├── 3D_Model/
-│   └── Simulation/
+├── STM32                  # STM32 firmware
+├── ENTRYTRACK                 # ESP32 source code
+├── ESPWEB               # Web application
 ├── Documentation/
 │   └── Project_Report.pdf
 ├── Images/
